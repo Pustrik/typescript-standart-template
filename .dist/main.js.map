@@ -1,1 +1,0 @@
-{"version":3,"file":"main.js","sourceRoot":"","sources":["../src/main.ts"],"names":[],"mappings":";;AAEA,KAAK,UAAU,SAAS;IAChB,OAAO,CAAC,GAAG,CAAC,4BAA4B,CAAC,CAAC;AAClD,CAAC;AACD,SAAS,EAAE,CAAC","sourcesContent":["import process from \"process\";\n\nasync function bootstrap() {\n        console.log(`Simple typescript template`);\n}\nbootstrap();"]}
